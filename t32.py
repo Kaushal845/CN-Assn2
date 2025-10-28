@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
-"""
-custom_topo.py
-Mininet script implementing the requested topology with TCLink parameters.
-Run with: sudo python3 custom_topo.py
-"""
+
 
 from mininet.net import Mininet
 from mininet.node import Controller, OVSSwitch
