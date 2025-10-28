@@ -1,0 +1,315 @@
+2025-10-28 09:15:00 | tuhafhaberler.com | Final Result | Resolution Failed
+2025-10-28 09:15:01 | rtsab.com | Final Result | Resolution Failed
+2025-10-28 09:15:02 | i-butterfly.ru | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .ru) | RTT: 50.0 ms | Cache MISS
+2025-10-28 09:15:02 | i-butterfly.ru | Iterative | 194.85.252.62 | Step: TLD | Response: Referral (Authoritative: ns1.reg.ru) | RTT: 45.0 ms | Cache MISS
+2025-10-28 09:15:02 | i-butterfly.ru | Iterative | 87.242.77.140 | Step: Authoritative | Response: Answer (172.67.151.138) | RTT: 41.6 ms | Cache MISS
+2025-10-28 09:15:02 | i-butterfly.ru | Final Result | Resolved IP: 172.67.151.138 | Total Time: 136.6 ms | Cache STORE
+2025-10-28 09:15:04 | datepanchang.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 15.0 ms | Cache MISS
+2025-10-28 09:15:04 | datepanchang.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns1.azure-dns.com) | RTT: 15.0 ms | Cache MISS
+2025-10-28 09:15:04 | datepanchang.com | Iterative | 13.75.93.156 | Step: Authoritative | Response: Answer (13.75.93.156) | RTT: 12.2 ms | Cache MISS
+2025-10-28 09:15:04 | datepanchang.com | Final Result | Resolved IP: 13.75.93.156 | Total Time: 42.2 ms | Cache STORE
+2025-10-28 09:15:05 | daehepharma.com | Final Result | Resolution Failed
+2025-10-28 09:15:06 | ex-jw.org | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .org) | RTT: 15.0 ms | Cache MISS
+2025-10-28 09:15:06 | ex-jw.org | Iterative | 199.19.56.1 | Step: TLD | Response: Referral (Authoritative: ns1.digitalocean.com) | RTT: 15.0 ms | Cache MISS
+2025-10-28 09:15:06 | ex-jw.org | Iterative | 173.245.58.121 | Step: Authoritative | Response: Answer (185.230.63.186) | RTT: 12.5 ms | Cache MISS
+2025-10-28 09:15:06 | ex-jw.org | Final Result | Resolved IP: 185.230.63.186 | Total Time: 42.5 ms | Cache STORE
+2025-10-28 09:15:08 | us.tf | Final Result | Resolution Failed
+2025-10-28 09:15:09 | informarexresistere.fr | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .fr) | RTT: 150.0 ms | Cache MISS
+2025-10-28 09:15:09 | informarexresistere.fr | Iterative | 192.93.0.4 | Step: TLD | Response: Referral (Authoritative: ns.ovh.net) | RTT: 200.0 ms | Cache MISS
+2025-10-28 09:15:10 | informarexresistere.fr | Iterative | 203.119.13.10 | Step: Authoritative | Response: Answer (178.32.143.165) | RTT: 154.1 ms | Cache MISS
+2025-10-28 09:15:10 | informarexresistere.fr | Final Result | Resolved IP: 178.32.143.165 | Total Time: 504.1 ms | Cache STORE
+2025-10-28 09:15:11 | running-sigi.de | Final Result | Resolution Failed
+2025-10-28 09:15:12 | buynowfromusa.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:15:12 | buynowfromusa.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns-102.awsdns-12.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:15:12 | buynowfromusa.com | Iterative | 205.251.192.102 | Step: Authoritative | Response: Answer (35.223.118.1) | RTT: 13.8 ms | Cache MISS
+2025-10-28 09:15:12 | buynowfromusa.com | Final Result | Resolved IP: 35.223.118.1 | Total Time: 41.8 ms | Cache STORE
+2025-10-28 09:15:14 | pbprofile.com | Final Result | Resolution Failed
+2025-10-28 09:15:15 | fini.net | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .net) | RTT: 15.0 ms | Cache MISS
+2025-10-28 09:15:15 | fini.net | Iterative | 192.36.144.114 | Step: TLD | Response: Referral (Authoritative: ns1.linode.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:15:15 | fini.net | Iterative | 69.93.127.10 | Step: Authoritative | Response: Answer (198.57.192.137) | RTT: 13.0 ms | Cache MISS
+2025-10-28 09:15:15 | fini.net | Final Result | Resolved IP: 198.57.192.137 | Total Time: 42.0 ms | Cache STORE
+2025-10-28 09:15:16 | gmxwnlajnl | Final Result | Resolution Failed
+2025-10-28 09:15:17 | djoncbjcmv | Final Result | Resolution Failed
+2025-10-28 09:15:18 | mptrmkwart | Final Result | Resolution Failed
+2025-10-28 09:15:19 | djoncbjcmv | Final Result | Resolution Failed
+2025-10-28 09:15:20 | gmxwnlajnl | Final Result | Resolution Failed
+2025-10-28 09:15:21 | mptrmkwart | Final Result | Resolution Failed
+2025-10-28 09:15:22 | globalpoliticalspectrum.com | Final Result | Resolution Failed
+2025-10-28 09:15:23 | 41latitude.com | Final Result | Resolution Failed
+2025-10-28 09:15:24 | zzxu.cn | Final Result | Resolution Failed
+2025-10-28 09:15:25 | energybulbs.co.uk | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .uk) | RTT: 150.0 ms | Cache MISS
+2025-10-28 09:15:26 | energybulbs.co.uk | Iterative | 213.248.225.1 | Step: TLD | Response: Referral (Authoritative: ns.shopify.com) | RTT: 180.0 ms | Cache MISS
+2025-10-28 09:15:26 | energybulbs.co.uk | Iterative | 23.227.38.32 | Step: Authoritative | Response: Answer (23.227.38.32) | RTT: 148.7 ms | Cache MISS
+2025-10-28 09:15:26 | energybulbs.co.uk | Final Result | Resolved IP: 23.227.38.32 | Total Time: 478.7 ms | Cache STORE
+2025-10-28 09:15:27 | o-ov.com | Final Result | Resolution Failed
+2025-10-28 09:15:28 | lozo.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 15.0 ms | Cache MISS
+2025-10-28 09:15:28 | lozo.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns-106.awsdns-13.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:15:28 | lozo.com | Iterative | 205.251.192.106 | Step: Authoritative | Response: Answer (107.21.144.47) | RTT: 13.6 ms | Cache MISS
+2025-10-28 09:15:28 | lozo.com | Final Result | Resolved IP: 107.21.144.47 | Total Time: 42.6 ms | Cache STORE
+2025-10-28 09:15:30 | tottenhamhk.com | Final Result | Resolution Failed
+2025-10-28 09:15:31 | newstetic.com | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .com) | RTT: 15.0 ms | Cache MISS
+2025-10-28 09:15:31 | newstetic.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: mina.ns.cloudflare.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:15:31 | newstetic.com | Iterative | 173.245.58.121 | Step: Authoritative | Response: Answer (104.21.3.241) | RTT: 13.2 ms | Cache MISS
+2025-10-28 09:15:31 | newstetic.com | Final Result | Resolved IP: 104.21.3.241 | Total Time: 42.2 ms | Cache STORE
+2025-10-28 09:15:33 | triggerfish.se | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .se) | RTT: 180.0 ms | Cache MISS
+2025-10-28 09:15:33 | triggerfish.se | Iterative | 192.71.12.1 | Step: TLD | Response: Referral (Authoritative: ns1.stackdns.com) | RTT: 190.0 ms | Cache MISS
+2025-10-28 09:15:34 | triggerfish.se | Iterative | 162.159.134.42 | Step: Authoritative | Response: Answer (162.159.134.42) | RTT: 177.8 ms | Cache MISS
+2025-10-28 09:15:34 | triggerfish.se | Final Result | Resolved IP: 162.159.134.42 | Total Time: 547.8 ms | Cache STORE
+2025-10-28 09:15:35 | reprosystems.ru | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .ru) | RTT: 160.0 ms | Cache MISS
+2025-10-28 09:15:36 | reprosystems.ru | Iterative | 194.85.252.62 | Step: TLD | Response: Referral (Authoritative: elma.ns.cloudflare.com) | RTT: 160.0 ms | Cache MISS
+2025-10-28 09:15:36 | reprosystems.ru | Iterative | 162.159.24.204 | Step: Authoritative | Response: Answer (104.21.59.11) | RTT: 160.6 ms | Cache MISS
+2025-10-28 09:15:36 | reprosystems.ru | Final Result | Resolved IP: 104.21.59.11 | Total Time: 480.6 ms | Cache STORE
+2025-10-28 09:15:38 | interfloracentral.co.uk | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .uk) | RTT: 250.0 ms | Cache MISS
+2025-10-28 09:15:38 | interfloracentral.co.uk | Iterative | 213.248.225.1 | Step: TLD | Response: Referral (Authoritative: ns.123-reg.co.uk) | RTT: 250.0 ms | Cache MISS
+2025-10-28 09:15:39 | interfloracentral.co.uk | Iterative | 217.160.81.1 | Step: Authoritative | Response: Answer (217.69.32.44) | RTT: 254.9 ms | Cache MISS
+2025-10-28 09:15:39 | interfloracentral.co.uk | Final Result | Resolved IP: 217.69.32.44 | Total Time: 754.9 ms | Cache STORE
+2025-10-28 09:15:40 | afairjudgement.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 16.0 ms | Cache MISS
+2025-10-28 09:15:40 | afairjudgement.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: elma.ns.cloudflare.com) | RTT: 16.0 ms | Cache MISS
+2025-10-28 09:15:40 | afairjudgement.com | Iterative | 162.159.24.204 | Step: Authoritative | Response: Answer (104.21.56.56) | RTT: 15.7 ms | Cache MISS
+2025-10-28 09:15:40 | afairjudgement.com | Final Result | Resolved IP: 104.21.56.56 | Total Time: 47.7 ms | Cache STORE
+2025-10-28 09:15:42 | owlcreek.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:15:42 | owlcreek.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns.wildwestdomains.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:15:42 | owlcreek.com | Iterative | 173.201.78.204 | Step: Authoritative | Response: Answer (205.178.189.129) | RTT: 14.5 ms | Cache MISS
+2025-10-28 09:15:42 | owlcreek.com | Final Result | Resolved IP: 205.178.189.129 | Total Time: 42.5 ms | Cache STORE
+2025-10-28 09:15:43 | radioterminal.ru | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .ru) | RTT: 15.0 ms | Cache MISS
+2025-10-28 09:15:43 | radioterminal.ru | Iterative | 194.85.252.62 | Step: TLD | Response: Referral (Authoritative: ns.101domain.ru) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:15:43 | radioterminal.ru | Iterative | 188.225.40.161 | Step: Authoritative | Response: Answer (188.225.40.161) | RTT: 13.6 ms | Cache MISS
+2025-10-28 09:15:43 | radioterminal.ru | Final Result | Resolved IP: 188.225.40.161 | Total Time: 42.6 ms | Cache STORE
+2025-10-28 09:15:45 | junio.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 11.0 ms | Cache MISS
+2025-10-28 09:15:45 | junio.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns.networksolutions.com) | RTT: 11.0 ms | Cache MISS
+2025-10-28 09:15:45 | junio.com | Iterative | 205.178.189.131 | Step: Authoritative | Response: Answer (209.196.144.25) | RTT: 10.3 ms | Cache MISS
+2025-10-28 09:15:45 | junio.com | Final Result | Resolved IP: 209.196.144.25 | Total Time: 32.3 ms | Cache STORE
+2025-10-28 09:15:46 | ditrblog.com | Final Result | Resolution Failed
+2025-10-28 09:15:47 | alchemedialtd.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:15:47 | alchemedialtd.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns.domain.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:15:47 | alchemedialtd.com | Iterative | 204.61.216.32 | Step: Authoritative | Response: Answer (68.66.224.29) | RTT: 14.3 ms | Cache MISS
+2025-10-28 09:15:47 | alchemedialtd.com | Final Result | Resolved IP: 68.66.224.29 | Total Time: 42.3 ms | Cache STORE
+2025-10-28 09:15:49 | portclydegeneralstore.com | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .com) | RTT: 85.0 ms | Cache MISS
+2025-10-28 09:15:49 | portclydegeneralstore.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns.weebly.com) | RTT: 85.0 ms | Cache MISS
+2025-10-28 09:15:49 | portclydegeneralstore.com | Iterative | 198.185.159.144 | Step: Authoritative | Response: Answer (198.49.23.145) | RTT: 86.9 ms | Cache MISS
+2025-10-28 09:15:49 | portclydegeneralstore.com | Final Result | Resolved IP: 198.49.23.145 | Total Time: 256.9 ms | Cache STORE
+2025-10-28 09:15:51 | alenpuaca.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 114.0 ms | Cache MISS
+2025-10-28 09:15:51 | alenpuaca.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns1.digitalocean.com) | RTT: 115.0 ms | Cache MISS
+2025-10-28 09:15:52 | alenpuaca.com | Iterative | 173.245.58.121 | Step: Authoritative | Response: Answer (67.205.28.253) | RTT: 115.1 ms | Cache MISS
+2S025-10-28 09:15:52 | alenpuaca.com | Final Result | Resolved IP: 67.205.28.253 | Total Time: 344.1 ms | Cache STORE
+2025-10-28 09:15:53 | dj-producer-j-mbargo.com | Final Result | Resolution Failed
+2025-10-28 09:15:54 | iag-inc.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 13.0 ms | Cache MISS
+2025-10-28 09:15:54 | iag-inc.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns.101domain.com) | RTT: 12.0 ms | Cache MISS
+2025-10-28 09:15:54 | iag-inc.com | Iterative | 198.57.192.137 | Step: Authoritative | Response: Answer (103.224.182.253) | RTT: 12.9 ms | Cache MISS
+2025-10-28 09:15:54 | iag-inc.com | Final Result | Resolved IP: 103.224.182.253 | Total Time: 37.9 ms | Cache STORE
+2025-10-28 09:15:56 | advertos.ru | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .ru) | RTT: 289.0 ms | Cache MISS
+2025-10-28 09:15:56 | advertos.ru | Iterative | 194.85.252.62 | Step: TLD | Response: Referral (Authoritative: ns.sweb.ru) | RTT: 289.0 ms | Cache MISS
+2025-10-28 09:15:57 | advertos.ru | Iterative | 91.206.196.1 | Step: Authoritative | Response: Answer (45.92.176.75) | RTT: 290.0 ms | Cache MISS
+2025-10-28 09:15:57 | advertos.ru | Final Result | Resolved IP: 45.92.176.75 | Total Time: 868.0 ms | Cache STORE
+2025-10-28 09:15:58 | kh.ua | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .ua) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:15:58 | kh.ua | Iterative | 195.191.1.130 | Step: TLD | Response: Referral (Authoritative: ns.imena.ua) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:15:58 | kh.ua | Iterative | 194.0.1.1 | Step: Authoritative | Response: Answer (195.69.185.211) | RTT: 13.8 ms | Cache MISS
+2025-10-28 09:15:58 | kh.ua | Final Result | Resolved IP: 195.69.185.211 | Total Time: 41.8 ms | Cache STORE
+2025-10-28 09:16:00 | kennethehartman.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:00 | kennethehartman.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns1.wordpress.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:00 | kennethehartman.com | Iterative | 192.0.78.12 | Step: Authoritative | Response: Answer (192.0.78.24) | RTT: 13.8 ms | Cache MISS
+2025-10-28 09:16:00 | kennethehartman.com | Final Result | Resolved IP: 192.0.78.24 | Total Time: 41.8 ms | Cache STORE
+2025-10-28 09:16:02 | hemcolubricants.com | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:02 | hemcolubricants.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns1.netart.pl) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:02 | hemcolubricants.com | Iterative | 85.128.129.2 | Step: Authoritative | Response: Answer (194.9.94.85) | RTT: 14.9 ms | Cache MISS
+2025-10-28 09:16:02 | hemcolubricants.com | Final Result | Resolved IP: 194.9.94.85 | Total Time: 42.9 ms | Cache STORE
+2025-10-28 09:16:04 | forpsi.net | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .net) | RTT: 10.0 ms | Cache MISS
+2025-10-28 09:16:04 | forpsi.net | Iterative | 192.36.144.114 | Step: TLD | Response: Referral (Authoritative: ns.forpsi.net) | RTT: 10.0 ms | Cache MISS
+2025-10-28 09:16:04 | forpsi.net | Iterative | 81.2.196.225 | Step: Authoritative | Response: Answer (85.255.6.237) | RTT: 11.5 ms | Cache MISS
+2025-10-28 09:16:04 | forpsi.net | Final Result | Resolved IP: 85.255.6.237 | Total Time: 31.5 ms | Cache STORE
+2025-10-28 09:16:05 | memeblender.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:05 | memeblender.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: elma.ns.cloudflare.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:05 | memeblender.com | Iterative | 162.159.24.204 | Step: Authoritative | Response: Answer (104.21.7.158) | RTT: 14.5 ms | Cache MISS
+2025-10-28 09:16:05 | memeblender.com | Final Result | Resolved IP: 104.21.7.158 | Total Time: 42.5 ms | Cache STORE
+2025-10-28 09:16:07 | somode.com | Final Result | Resolution Failed
+2025-10-28 09:16:08 | gamemob.com | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .com) | RTT: 33.0 ms | Cache MISS
+2025-10-28 09:16:08 | gamemob.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns-112.awsdns-14.com) | RTT: 33.0 ms | Cache MISS
+2025-10-28 09:16:08 | gamemob.com | Iterative | 205.251.192.112 | Step: Authoritative | Response: Answer (3.33.130.190) | RTT: 34.5 ms | Cache MISS
+2025-10-28 09:16:08 | gamemob.com | Final Result | Resolved IP: 3.33.130.190 | Total Time: 100.5 ms | Cache STORE
+2025-10-28 09:16:10 | monsterhomesecuritystore.com | Final Result | Resolution Failed
+2025-10-28 09:16:11 | door2games.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 35.0 ms | Cache MISS
+2025-10-28 09:16:11 | door2games.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns1.pdr.com) | RTT: 35.0 ms | Cache MISS
+2025-10-28 09:16:11 | door2games.com | Iterative | 160.153.155.129 | Step: Authoritative | Response: Answer (160.153.0.43) | RTT: 34.8 ms | Cache MISS
+2025-10-28 09:16:11 | door2games.com | Final Result | Resolved IP: 160.153.0.43 | Total Time: 104.8 ms | Cache STORE
+2025-10-28 09:16:13 | ondemandappliancerepair.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 16.0 ms | Cache MISS
+2025-10-28 09:16:13 | ondemandappliancerepair.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns.1and1.com) | RTT: 16.0 ms | Cache MISS
+2025-10-28 09:16:13 | ondemandappliancerepair.com | Iterative | 74.208.5.3 | Step: Authoritative | Response: Answer (74.208.236.102) | RTT: 16.9 ms | Cache MISS
+2025-10-28 09:16:13 | ondemandappliancerepair.com | Final Result | Resolved IP: 74.208.236.102 | Total Time: 48.9 ms | Cache STORE
+2025-10-28 09:16:14 | gensee.com | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .com) | RTT: 12.0 ms | Cache MISS
+2025-10-28 09:16:14 | gensee.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns.hichina.com) | RTT: 12.0 ms | Cache MISS
+2025-10-28 09:16:14 | gensee.com | Iterative | 106.11.173.189 | Step: Authoritative | Response: Answer (211.150.89.25) | RTT: 12.2 ms | Cache MISS
+2025-10-28 09:16:14 | gensee.com | Final Result | Resolved IP: 211.150.89.25 | Total Time: 36.2 ms | Cache STORE
+2025-10-28 09:16:16 | caricsports.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:16 | caricsports.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: mina.ns.cloudflare.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:16 | caricsports.com | Iterative | 173.245.58.121 | Step: Authoritative | Response: Answer (104.21.51.12) | RTT: 14.9 ms | Cache MISS
+2025-10-28 09:16:16 | caricsports.com | Final Result | Resolved IP: 104.21.51.12 | Total Time: 42.9 ms | Cache STORE
+2025-10-28 09:16:17 | auqzzx.com | Final Result | Resolution Failed
+2025-10-28 09:16:18 | toaskfuture.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 10.0 ms | Cache MISS
+2025-10-28 09:16:18 | toaskfuture.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns1.dnspod.net) | RTT: 11.0 ms | Cache MISS
+2025-10-28 09:16:18 | toaskfuture.com | Iterative | 183.60.81.15 | Step: Authoritative | Response: Answer (119.18.54.195) | RTT: 11.0 ms | Cache MISS
+2025-10-28 09:16:18 | toaskfuture.com | Final Result | Resolved IP: 119.18.54.195 | Total Time: 32.0 ms | Cache STORE
+2025-10-28 09:16:20 | cetsi.fr | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .fr) | RTT: 146.0 ms | Cache MISS
+2025-10-28 09:16:20 | cetsi.fr | Iterative | 192.93.0.4 | Step: TLD | Response: Referral (Authoritative: ns1.gandi.net) | RTT: 146.0 ms | Cache MISS
+2025-10-28 09:16:21 | cetsi.fr | Iterative | 155.133.129.28 | Step: Authoritative | Response: Answer (91.151.64.24) | RTT: 147.4 ms | Cache MISS
+2025-10-28 09:16:21 | cetsi.fr | Final Result | Resolved IP: 91.151.64.24 | Total Time: 439.4 ms | Cache STORE
+2025-10-28 09:16:22 | probigbets.com | Final Result | Resolution Failed
+2025-10-28 09:16:23 | bikesandtransit.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 91.0 ms | Cache MISS
+2025-10-28 09:16:23 | bikesandtransit.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns1.wordpress.com) | RTT: 92.0 ms | Cache MISS
+2025-10-28 09:16:24 | bikesandtransit.com | Iterative | 192.0.78.12 | Step: Authoritative | Response: Answer (192.0.78.25) | RTT: 92.1 ms | Cache MISS
+2025-10-28 09:16:24 | bikesandtransit.com | Final Result | Resolved IP: 192.0.78.25 | Total Time: 275.1 ms | Cache STORE
+2025-10-28 09:16:25 | aqvr.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 101.0 ms | Cache MISS
+2025-10-28 09:16:25 | aqvr.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns.hostland.ru) | RTT: 101.0 ms | Cache MISS
+2025-10-28 09:16:26 | aqvr.com | Iterative | 95.163.255.150 | Step: Authoritative | Response: Answer (89.117.19.57) | RTT: 102.7 ms | Cache MISS
+2025-10-28 09:16:26 | aqvr.com | Final Result | Resolved IP: 89.117.19.57 | Total Time: 304.7 ms | Cache STORE
+2025-10-28 09:16:27 | niceinternetmoney.ru | Final Result | Resolution Failed
+2025-10-28 09:16:28 | chonvn.com | Final Result | Resolution Failed
+2025-10-28 09:16:29 | eugenbotnar.com | Final Result | Resolution Failed
+2025-10-28 09:16:30 | phi-pe.com | Final Result | Resolution Failed
+2025-10-28 09:16:31 | chuamatsua.com | Final Result | Resolution Failed
+2025-10-28 09:16:32 | pictures-thailand.com | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:32 | pictures-thailand.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns.web.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:32 | pictures-thailand.com | Iterative | 66.96.128.60 | Step: Authoritative | Response: Answer (66.96.149.1) | RTT: 14.2 ms | Cache MISS
+2025-10-28 09:16:32 | pictures-thailand.com | Final Result | Resolved IP: 66.96.149.1 | Total Time: 42.2 ms | Cache STORE
+2025-10-28 09:16:34 | 2brightsparks.co.uk | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .uk) | RTT: 52.0 ms | Cache MISS
+2025-10-28 09:16:34 | 2brightsparks.co.uk | Iterative | 213.248.225.1 | Step: TLD | Response: Referral (Authoritative: ns-123.awsdns-15.com) | RTT: 52.0 ms | Cache MISS
+2025-10-28 09:16:34 | 2brightsparks.co.uk | Iterative | 205.251.192.123 | Step: Authoritative | Response: Answer (143.204.55.129) | RTT: 53.7 ms | Cache MISS
+2025-10-28 09:16:34 | 2brightsparks.co.uk | Final Result | Resolved IP: 143.204.55.129 | Total Time: 157.7 ms | Cache STORE
+2025-10-28 09:16:36 | astrumonline.ru | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .ru) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:36 | astrumonline.ru | Iterative | 194.85.252.62 | Step: TLD | Response: Referral (Authoritative: ns.nic.ru) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:36 | astrumonline.ru | Iterative | 217.69.130.14 | Step: Authoritative | Response: Answer (217.69.136.59) | RTT: 14.4 ms | Cache MISS
+2025-10-28 09:16:36 | astrumonline.ru | Final Result | Resolved IP: 217.69.136.59 | Total Time: 42.4 ms | Cache STORE
+2025-10-28 09:16:37 | blueridgelife.com | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:37 | blueridgelife.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns1.pdr.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:37 | blueridgelife.com | Iterative | 160.153.155.129 | Step: Authoritative | Response: Answer (192.124.249.6) | RTT: 13.9 ms | Cache MISS
+2025-10-28 09:16:37 | blueridgelife.com | Final Result | Resolved IP: 192.124.249.6 | Total Time: 41.9 ms | Cache STORE
+2025-10-28 09:16:39 | mwzip.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:39 | mwzip.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: elma.ns.cloudflare.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:39 | mwzip.com | Iterative | 162.159.24.204 | Step: Authoritative | Response: Answer (104.21.20.205) | RTT: 14.5 ms | Cache MISS
+2025-10-28 09:16:39 | mwzip.com | Final Result | Resolved IP: 104.21.20.205 | Total Time: 42.5 ms | Cache STORE
+2025-10-28 09:16:41 | gusbi.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 157.0 ms | Cache MISS
+2025-10-28 09:16:41 | gusbi.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns.1984.is) | RTT: 157.0 ms | Cache MISS
+2025-10-28 09:16:42 | gusbi.com | Iterative | 185.112.144.5 | Step: Authoritative | Response: Answer (185.145.195.19) | RTT: 158.7 ms | Cache MISS
+2025-10-28 09:16:42 | gusbi.com | Final Result | Resolved IP: 185.145.195.19 | Total Time: 472.7 ms | Cache STORE
+2025-10-28 09:16:43 | simternet.com | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:43 | simternet.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns-312.awsdns-39.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:43 | simternet.com | Iterative | 205.251.193.56 | Step: Authoritative | Response: Answer (15.197.225.128) | RTT: 13.8 ms | Cache MISS
+2025-10-28 09:16:43 | simternet.com | Final Result | Resolved IP: 15.197.225.128 | Total Time: 41.8 ms | Cache STORE
+2025-10-28 09:16:45 | khsm.ru | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .ru) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:45 | khsm.ru | Iterative | 194.85.252.62 | Step: TLD | Response: Referral (Authoritative: ns.1ps.ru) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:45 | khsm.ru | Iterative | 91.247.37.1 | Step: Authoritative | Response: Answer (91.247.37.5) | RTT: 14.5 ms | Cache MISS
+2025-10-28 09:16:45 | khsm.ru | Final Result | Resolved IP: 91.247.37.5 | Total Time: 42.5 ms | Cache STORE
+2025-10-28 09:16:47 | livelinks.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 15.0 ms | Cache MISS
+2025-10-28 09:16:47 | livelinks.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns-86.awsdns-10.com) | RTT: 15.0 ms | Cache MISS
+2025-10-28 09:16:47 | livelinks.com | Iterative | 205.251.192.86 | Step: Authoritative | Response: Answer (108.158.61.12) | RTT: 13.7 ms | Cache MISS
+2025-10-28 09:16:47 | livelinks.com | Final Result | Resolved IP: 108.158.61.12 | Total Time: 43.7 ms | Cache STORE
+2025-10-28 09:16:48 | jantv.in | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .in) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:48 | jantv.in | Iterative | 199.253.250.1 | Step: TLD | Response: Referral (Authoritative: mina.ns.cloudflare.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:16:48 | jantv.in | Iterative | 173.245.58.121 | Step: Authoritative | Response: Answer (104.21.5.51) | RTT: 15.2 ms | Cache MISS
+2025-10-28 09:16:48 | jantv.in | Final Result | Resolved IP: 104.21.5.51 | Total Time: 43.2 ms | Cache STORE
+2025-10-28 09:16:50 | hornil.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 22.0 ms | Cache MISS
+2025-10-28 09:16:50 | hornil.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns.gabia.co.kr) | RTT: 22.0 ms | Cache MISS
+2025-10-28 09:16:50 | hornil.com | Iterative | 211.234.118.100 | Step: Authoritative | Response: Answer (183.111.138.226) | RTT: 21.9 ms | Cache MISS
+2025-10-28 09:16:50 | hornil.com | Final Result | Resolved IP: 183.111.138.226 | Total Time: 65.9 ms | Cache STORE
+2025-10-28 09:16:52 | 7dfps.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 35.0 ms | Cache MISS
+2025-10-28 09:16:52 | 7dfps.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: aron.ns.cloudflare.com) | RTT: 35.0 ms | Cache MISS
+2025-10-28 09:16:52 | 7dfps.com | Iterative | 173.245.59.102 | Step: Authoritative | Response: Answer (104.21.9.172) | RTT: 35.5 ms | Cache MISS
+2025-10-28 09:16:52 | 7dfps.com | Final Result | Resolved IP: 104.21.9.172 | Total Time: 105.5 ms | Cache STORE
+2025-10-28 09:16:54 | luckypuppygames.com | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .com) | RTT: 187.0 ms | Cache MISS
+2025-10-28 09:16:54 | luckypuppygames.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns.inmotionhosting.com) | RTT: 188.0 ms | Cache MISS
+2025-10-28 09:16:55 | luckypuppygames.com | Iterative | 74.124.210.242 | Step: Authoritative | Response: Answer (172.233.219.49) | RTT: 188.9 ms | Cache MISS
+2025-10-28 09:16:55 | luckypuppygames.com | Final Result | Resolved IP: 172.233.219.49 | Total Time: 563.9 ms | Cache STORE
+2025-10-28 09:16:56 | b-matrix.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 34.0 ms | Cache MISS
+2025-10-28 09:16:56 | b-matrix.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns.pcextreme.nl) | RTT: 35.0 ms | Cache MISS
+2025-10-28 09:16:56 | b-matrix.com | Iterative | 193.104.204.4 | Step: Authoritative | Response: Answer (137.135.108.176) | RTT: 35.8 ms | Cache MISS
+2025-10-28 09:16:56 | b-matrix.com | Final Result | Resolved IP: 137.135.108.176 | Total Time: 104.8 ms | Cache STORE
+2025-10-28 09:16:58 | coutureauchocolat.com | Final Result | Resolution Failed
+2025-10-28 09:16:59 | afresnohomeinspector.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 198.0 ms | Cache MISS
+2025-10-28 09:16:59 | afresnohomeinspector.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns1.ehost.com) | RTT: 198.0 ms | Cache MISS
+2025-10-28 09:17:00 | afresnohomeinspector.com | Iterative | 69.93.127.10 | Step: Authoritative | Response: Answer (67.225.203.79) | RTT: 198.8 ms | Cache MISS
+2025-10-28 09:17:00 | afresnohomeinspector.com | Final Result | Resolved IP: 67.225.203.79 | Total Time: 594.8 ms | Cache STORE
+2025-10-28 09:17:01 | pieceinch.com | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .com) | RTT: 46.0 ms | Cache MISS
+2025-10-28 09:17:01 | pieceinch.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: aron.ns.cloudflare.com) | RTT: 46.0 ms | Cache MISS
+2025-10-28 09:17:01 | pieceinch.com | Iterative | 173.245.59.102 | Step: Authoritative | Response: Answer (104.21.66.64) | RTT: 47.1 ms | Cache MISS
+2025-10-28 09:17:01 | pieceinch.com | Final Result | Resolved IP: 104.21.66.64 | Total Time: 139.1 ms | Cache STORE
+2025-10-28 09:17:03 | australiatradenow.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 17.0 ms | Cache MISS
+2025-10-28 09:17:03 | australiatradenow.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns-281.awsdns-35.com) | RTT: 17.0 ms | Cache MISS
+2025-10-28 09:17:03 | australiatradenow.com | Iterative | 205.251.193.25 | Step: Authoritative | Response: Answer (52.77.97.73) | RTT: 18.4 ms | Cache MISS
+2025-10-28 09:17:03 | australiatradenow.com | Final Result | Resolved IP: 52.77.97.73 | Total Time: 52.4 ms | Cache STORE
+2025-10-28 09:17:05 | diamondknot.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:05 | diamondknot.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns.weebly.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:05 | diamondknot.com | Iterative | 198.185.159.144 | Step: Authoritative | Response: Answer (198.49.23.145) | RTT: 14.2 ms | Cache MISS
+2025-10-28 09:17:05 | diamondknot.com | Final Result | Resolved IP: 198.49.23.145 | Total Time: 42.2 ms | Cache STORE
+2025-10-28 09:17:06 | amorefieldlife.com | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:06 | amorefieldlife.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns1.bluehost.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:06 | amorefieldlife.com | Iterative | 162.88.60.37 | Step: Authoritative | Response: Answer (162.241.226.124) | RTT: 15.4 ms | Cache MISS
+2025-10-28 09:17:06 | amorefieldlife.com | Final Result | Resolved IP: 162.241.226.124 | Total Time: 43.4 ms | Cache STORE
+2025-10-28 09:17:08 | sheltercoveinn.com | Final Result | Resolution Failed
+2025-10-28 09:17:09 | wrestlingfanssuck.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 10.0 ms | Cache MISS
+2025-10-28 09:17:09 | wrestlingfanssuck.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns.inwx.de) | RTT: 11.0 ms | Cache MISS
+2025-10-28 09:17:09 | wrestlingfanssuck.com | Iterative | 80.67.18.196 | Step: Authoritative | Response: Answer (62.149.128.40) | RTT: 11.0 ms | Cache MISS
+2025-10-28 09:17:09 | wrestlingfanssuck.com | Final Result | Resolved IP: 62.149.128.40 | Total Time: 32.0 ms | Cache STORE
+2025-10-28 09:17:11 | sdccdonline.net | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .net) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:11 | sdccdonline.net | Iterative | 192.36.144.114 | Step: TLD | Response: Referral (Authoritative: ns1.sdccd.edu) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:11 | sdccdonline.net | Iterative | 144.191.1.1 | Step: Authoritative | Response: Answer (209.129.16.41) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:11 | sdccdonline.net | Final Result | Resolved IP: 209.129.16.41 | Total Time: 42.0 ms | Cache STORE
+2025-10-28 09:17:12 | autofirenze.biz | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .biz) | RTT: 13.0 ms | Cache MISS
+2025-10-28 09:17:12 | autofirenze.biz | Iterative | 199.253.232.1 | Step: TLD | Response: Referral (Authoritative: ns1.arubacloud.com) | RTT: 13.0 ms | Cache MISS
+2025-10-28 09:17:12 | autofirenze.biz | Iterative | 62.149.128.20 | Step: Authoritative | Response: Answer (89.46.109.17) | RTT: 14.6 ms | Cache MISS
+2025-10-28 09:17:12 | autofirenze.biz | Final Result | Resolved IP: 89.46.109.17 | Total Time: 40.6 ms | Cache STORE
+2025-10-28 09:17:14 | house-sg.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 146.0 ms | Cache MISS
+2025-10-28 09:17:14 | house-sg.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns1.enom.com) | RTT: 147.0 ms | Cache MISS
+2025-10-28 09:17:15 | house-sg.com | Iterative | 216.115.133.177 | Step: Authoritative | Response: Answer (208.98.40.205) | RTT: 147.0 ms | Cache MISS
+2025-10-28 09:17:15 | house-sg.com | Final Result | Resolved IP: 208.98.40.205 | Total Time: 440.0 ms | Cache STORE
+2025-10-28 09:17:16 | camcard.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:16 | camcard.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns1.cc-dt.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:16 | camcard.com | Iterative | 52.28.255.241 | Step: Authoritative | Response: Answer (184.169.209.203) | RTT: 14.9 ms | Cache MISS
+2025-10-28 09:17:16 | camcard.com | Final Result | Resolved IP: 184.169.209.203 | Total Time: 42.9 ms | Cache STORE
+2025-10-28 09:17:18 | ppsuika.ac.id | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .id) | RTT: 10.0 ms | Cache MISS
+2025-10-28 09:17:18 | ppsuika.ac.id | Iterative | 203.119.13.1 | Step: TLD | Response: Referral (Authoritative: ns1.pandi.id) | RTT: 10.0 ms | Cache MISS
+2025-10-28 09:17:18 | ppsuika.ac.id | Iterative | 203.119.13.1 | Step: Authoritative | Response: Answer (203.175.8.54) | RTT: 11.9 ms | Cache MISS
+2025-10-28 09:17:18 | ppsuika.ac.id | Final Result | Resolved IP: 203.175.8.54 | Total Time: 31.9 ms | Cache STORE
+2025-10-28 09:17:19 | healthnews4you.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 34.0 ms | Cache MISS
+2025-10-28 09:17:19 | healthnews4you.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns-430.awsdns-53.com) | RTT: 35.0 ms | Cache MISS
+2025-10-28 09:17:19 | healthnews4you.com | Iterative | 205.251.193.174 | Step: Authoritative | Response: Answer (3.33.130.190) | RTT: 35.2 ms | Cache MISS
+2025-10-28 09:17:19 | healthnews4you.com | Final Result | Resolved IP: 3.33.130.190 | Total Time: 104.2 ms | Cache STORE
+2025-10-28 09:17:21 | stunninggirls.net | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .net) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:21 | stunninggirls.net | Iterative | 192.36.144.114 | Step: TLD | Response: Referral (Authoritative: ns1.wix.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:21 | stunninggirls.net | Iterative | 216.239.32.110 | Step: Authoritative | Response: Answer (34.95.33.229) | RTT: 13.8 ms | Cache MISS
+2025-10-28 09:17:21 | stunninggirls.net | Final Result | Resolved IP: 34.95.33.229 | Total Time: 41.8 ms | Cache STORE
+2025-10-28 09:17:23 | kathihill.com | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .com) | RTT: 10.0 ms | Cache MISS
+2025-10-28 09:17:23 | kathihill.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns1.digitalocean.com) | RTT: 10.0 ms | Cache MISS
+2025-10-28 09:17:23 | kathihill.com | Iterative | 173.245.58.121 | Step: Authoritative | Response: Answer (159.65.187.116) | RTT: 11.5 ms | Cache MISS
+2025-10-28 09:17:23 | kathihill.com | Final Result | Resolved IP: 159.65.187.116 | Total Time: 31.5 ms | Cache STORE
+2025-10-28 09:17:24 | linksplash.info | Final Result | Resolution Failed
+2025-10-28 09:17:25 | group14eng.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 10.0 ms | Cache MISS
+2025-10-28 09:17:25 | group14eng.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns1.pdr.com) | RTT: 10.0 ms | Cache MISS
+2025-10-28 09:17:25 | group14eng.com | Iterative | 160.153.155.129 | Step: Authoritative | Response: Answer (192.124.249.164) | RTT: 11.7 ms | Cache MISS
+2025-10-28 09:17:25 | group14eng.com | Final Result | Resolved IP: 192.124.249.164 | Total Time: 31.7 ms | Cache STORE
+2025-10-28 09:17:27 | shqqaa.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:27 | shqqaa.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: aron.ns.cloudflare.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:27 | shqqaa.com | Iterative | 173.245.59.102 | Step: Authoritative | Response: Answer (104.21.25.127) | RTT: 13.7 ms | Cache MISS
+2025-10-28 09:17:27 | shqqaa.com | Final Result | Resolved IP: 104.21.25.127 | Total Time: 41.7 ms | Cache STORE
+2025-10-28 09:17:29 | mesites.co.za | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .za) | RTT: 197.0 ms | Cache MISS
+2025-10-28 09:17:29 | mesites.co.za | Iterative | 196.43.128.10 | Step: TLD | Response: Referral (Authoritative: ns.host-h.net) | RTT: 197.0 ms | Cache MISS
+2025-10-28 09:17:30 | mesites.co.za | Iterative | 196.220.61.26 | Step: Authoritative | Response: Answer (41.204.200.130) | RTT: 197.8 ms | Cache MISS
+2025-10-28 09:17:30 | mesites.co.za | Final Result | Resolved IP: 41.204.200.130 | Total Time: 591.8 ms | Cache STORE
+2025-10-28 09:17:31 | progettogiovani.pd.it | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .it) | RTT: 34.0 ms | Cache MISS
+2025-10-28 09:17:31 | progettogiovani.pd.it | Iterative | 192.100.158.1 | Step: TLD | Response: Referral (Authoritative: ns.register.it) | RTT: 35.0 ms | Cache MISS
+2025-10-28 09:17:31 | progettogiovani.pd.it | Iterative | 95.110.160.1 | Step: Authoritative | Response: Answer (185.213.115.40) | RTT: 35.6 ms | Cache MISS
+2025-10-28 09:17:31 | progettogiovani.pd.it | Final Result | Resolved IP: 185.213.115.40 | Total Time: 104.6 ms | Cache STORE
+2s025-10-28 09:17:33 | uahoy.net | Final Result | Resolution Failed
+2025-10-28 09:17:34 | retiragroup.com | Final Result | Resolution Failed
+2025-10-28 09:17:35 | effexdjs.com | Final Result | Resolution Failed
+2025-10-28 09:17:36 | mysearch-online.com | Final Result | Resolution Failed
+2025-10-28 09:17:37 | asadventure.com | Iterative | 199.9.14.201 | Step: Root | Response: Referral (TLD: .com) | RTT: 17.0 ms | Cache MISS
+2025-10-28 09:17:37 | asadventure.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns-283.awsdns-35.com) | RTT: 17.0 ms | Cache MISS
+2025-10-28 09:17:37 | asadventure.com | Iterative | 205.251.193.27 | Step: Authoritative | Response: Answer (143.204.55.107) | RTT: 17.8 ms | Cache MISS
+2025-10-28 09:17:37 | asadventure.com | Final Result | Resolved IP: 143.204.55.107 | Total Time: 51.8 ms | Cache STORE
+2025-10-28 09:17:39 | michiganbulb.com | Iterative | 192.33.4.12 | Step: Root | Response: Referral (TLD: .com) | RTT: 44.0 ms | Cache MISS
+2025-10-28 09:17:39 | michiganbulb.com | Iterative | 192.33.14.30 | Step: TLD | Response: Referral (Authoritative: ns1.appliedi.net) | RTT: 45.0 ms | Cache MISS
+2025-10-28 09:17:39 | michiganbulb.com | Iterative | 64.71.129.2 | Step: Authoritative | Response: Answer (208.27.142.168) | RTT: 45.8 ms | Cache MISS
+2025-10-28 09:17:39 | michiganbulb.com | Final Result | Resolved IP: 208.27.142.168 | Total Time: 134.8 ms | Cache STORE
+2025-10-28 09:17:41 | shivalikprints.com | Iterative | 198.41.0.4 | Step: Root | Response: Referral (TLD: .com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:41 | shivalikprints.com | Iterative | 192.5.6.30 | Step: TLD | Response: Referral (Authoritative: ns.bigrock.com) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:41 | shivalikprints.com | Iterative | 208.91.197.97 | Step: Authoritative | Response: Answer (162.215.11.92) | RTT: 14.0 ms | Cache MISS
+2025-10-28 09:17:41 | shivalikprints.com | Final Result | Resolved IP: 162.215.11.92 | Total Time: 42.0 ms | Cache STORE
